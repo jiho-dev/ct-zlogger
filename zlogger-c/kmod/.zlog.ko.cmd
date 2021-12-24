@@ -1,0 +1,1 @@
+cmd_/home/jiho.jung/src/jiho-dev/zlogger/zlogger-c/kmod/zlog.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jiho.jung/src/jiho-dev/zlogger/zlogger-c/kmod/zlog.ko /home/jiho.jung/src/jiho-dev/zlogger/zlogger-c/kmod/zlog.o /home/jiho.jung/src/jiho-dev/zlogger/zlogger-c/kmod/zlog.mod.o
